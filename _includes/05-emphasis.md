@@ -1,1 +1,1 @@
-I'm a Fullstack Software Engineer. Bulding beautiful and accessible applications in **JS, HTML, CSS!**
+I'm a Fullstack Software Engineer. Building beautiful and accessible applications with **JS, HTML, CSS!**
