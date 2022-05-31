@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## Hi 👋, I'm Mark, I'm passionate about ❤️:
+  - Learning new technologies & coding techniques 👨‍💻.
+  - I love travelling & new places ✈️
+  - Lover of meditation and practicing peace 🧘‍♂️
+  - Literature 📚
