@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm a Fullstack Software Engineer. Bulding beautiful and accessible applications in **JS, HTML, CSS!**
