@@ -1,1 +1,1 @@
-[GitHub link] (https://github.com/marksist300)
+[GitHub link](https://github.com/marksist300)
